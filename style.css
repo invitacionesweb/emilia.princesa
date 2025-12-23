@@ -83,7 +83,7 @@ header .header-info {
     justify-content: center;
     text-align: center;
     gap: -3px;
-    padding-bottom: 150px;
+    padding-bottom: 210px;
 }
 .infoimportante a {
     margin: 0px 0 0 0;
@@ -404,7 +404,7 @@ footer img {
         background-color: var(--color-terciario);
         background-image: url(./figuras/Group.png);
         width: 100%;
-        height: 60vh;
+        height: 80vh;
     }
     .fecha img{
         margin:  0 0 10px 0;
